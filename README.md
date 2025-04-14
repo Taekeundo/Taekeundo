@@ -7,10 +7,31 @@ I’m now expanding my skills as a developer,<br>
 aiming to create integrated digital services.
 
 <h2 align="left"><span style="color: white;">Tech Stack</span></h2>
-<img style="margin: 3px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" width="30" height="30"/><img style="margin: 3px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="cplusplus" width="30" height="30"/><img style="margin: 3px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="30"/><img style="margin: 3px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="30" width="30"/><img style="margin: 3px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="30" width="30"/><img style="margin: 3px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="30"/><img style="margin: 3px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="30"/><a href="https://www.docker.com/" target="_blank"><img style="margin: 3px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="30"/></a><img style="margin: 3px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" height="30"/>
+<div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center;">
+  <img src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" width="30" height="30"/>
+  <img src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="cplusplus" width="30" height="30"/>
+  <img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="30"/>
+  <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="30" width="30"/>
+  <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="30" width="30"/>
+  <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="30"/>
+  <img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="30"/>
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="30"/>
+  </a>
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" height="30"/>
+</div>
 
 <h2 align="left"><span style="color: white;">Other Skills</span></h2>
-<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 3px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="30"/></a><a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 3px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="30"/></a><img style="margin: 3px" src="https://www.weltenbauer.com/images/Produkt_Bilder/autodesk-autocad-product-icon-1282x.png" alt="AutoCAD" height="30"/><img style="margin: 3px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/sketchup-icon.png" alt="SketchUp" height="30"/>
+<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center;">
+  <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank">
+    <img src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="30"/>
+  </a>
+  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank">
+    <img src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="30"/>
+  </a>
+  <img src="https://www.weltenbauer.com/images/Produkt_Bilder/autodesk-autocad-product-icon-1282x.png" alt="AutoCAD" height="30"/>
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/sketchup-icon.png" alt="SketchUp" height="30"/>
+</div>
 
 <br>
 <div align="left">
