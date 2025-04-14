@@ -23,19 +23,10 @@ aiming to create integrated digital services.
 
 <h2 align="left"><span style="color: white;">Other Skills</span></h2>
 <div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center;">
-
-  <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"
-    style="text-decoration: none; outline: none; border: none; display: inline-block;">
-    <img src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg"
-        alt="Photoshop"
-        height="30"
-        style="display: block;" />
-  </a>
-
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" style="text-decoration: none;">
-    <img src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="30"/>
-  </a>
-
+  <img src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" 
+    alt="photoshop" height="30"/>
+  <img src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" 
+    alt="illustrator" height="30"/>
   <img src="https://www.weltenbauer.com/images/Produkt_Bilder/autodesk-autocad-product-icon-1282x.png" alt="AutoCAD" height="30"/>
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/sketchup-icon.png" alt="SketchUp" height="30"/>
 </div>
