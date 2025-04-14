@@ -15,9 +15,7 @@ aiming to create integrated digital services.
   <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="30" width="30"/>
   <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="30"/>
   <img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="30"/>
-  <a href="https://www.docker.com/" target="_blank" style="text-decoration: none;">
-    <img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="30"/>
-  </a>
+  <img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="30"/>
   <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" height="30"/>
 </div>
 
