@@ -15,7 +15,7 @@ aiming to create integrated digital services.
   <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="30" width="30"/>
   <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="30"/>
   <img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="30"/>
-  <a href="https://www.docker.com/" target="_blank">
+  <a href="https://www.docker.com/" target="_blank" style="text-decoration: none;">
     <img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="30"/>
   </a>
   <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" height="30"/>
@@ -23,10 +23,10 @@ aiming to create integrated digital services.
 
 <h2 align="left"><span style="color: white;">Other Skills</span></h2>
 <div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center;">
-  <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank">
+  <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank" style="text-decoration: none;">
     <img src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="30"/>
   </a>
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank">
+  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" style="text-decoration: none;">
     <img src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="30"/>
   </a>
   <img src="https://www.weltenbauer.com/images/Produkt_Bilder/autodesk-autocad-product-icon-1282x.png" alt="AutoCAD" height="30"/>
@@ -36,7 +36,7 @@ aiming to create integrated digital services.
 <br>
 <div align="left">
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taekeundo&hide=roff&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="350" alt="used languages"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taekeundo&hide=roff&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="300" alt="used languages"  />
   <br/>
 </div>
 
